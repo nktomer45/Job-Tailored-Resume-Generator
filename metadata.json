@@ -1,0 +1,6 @@
+{
+  "name": "Job-Tailored Resume Generator",
+  "description": "An application to submit your existing resume and a job description, then generate a tailored resume that matches the job requirements while aiming to maintain your original format.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
